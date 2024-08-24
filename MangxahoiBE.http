@@ -1,0 +1,6 @@
+@MangxahoiBE_HostAddress = http://localhost:5142
+
+GET {{MangxahoiBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
